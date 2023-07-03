@@ -6,7 +6,7 @@
 
 @font-face{
     font-family: 'android';
-    src: url('../idroid.otf') format('opentype');
+    src: url(../imagens/idroid.otf) format('opentype');
 }
 
 *{
